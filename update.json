@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "zip": "https://github.com/USERNAME/REPO/raw/main/data/versions/v1.0.zip",
+  "message": "Update Tersedia!\nKetik /update atau /perbarui",
+  "by": "CREATOR",
+  "at": "2025-12-22",
+  "force": false
+}
